@@ -79,3 +79,64 @@ List<review>
       "shoppingPolicy": "Ships within 3-5 business days across Pune and Maharashtra.",
       "refundPolicy": "30-day refund policy with original receipt. Free return pickup within Pune city limits."
     }
+
+
+
+    Equipment
+    {
+      "id": "1",
+      "name": "Purpose Seed Starter Kits",
+      "description": "Score each cause. Quality throughout beautiful instead.",
+      "price": 3489.26,
+      "rating": 4.3,
+      "reviews": [
+        {
+          "username": "Anthony95",
+          "rating": 3.4,
+          "comment": "Discussion own night respond red.",
+          "productDelivered": true,
+          "dateTime": "2025-01-01T15:16:27",
+          "likes": 67,
+          "dislikes": 0
+        },
+        {
+          "username": "Jeffrey74",
+          "rating": 4.9,
+          "comment": "Everything thank serve civil institution everyone democratic shake.",
+          "productDelivered": true,
+          "dateTime": "2025-01-01T03:43:16",
+          "likes": 40,
+          "dislikes": 2
+        }
+      ],
+      "categories": [
+        "Indoor Gardening Accessories",
+        "Seed Starter Kits"
+      ],
+      "seller": {
+        "name": "Hoffman, Baker and Richards",
+        "address": {
+          "street": "Cox Dam",
+          "city": "Nashik",
+          "state": "Maharashtra",
+          "country": "India",
+          "pincode": "67285"
+        }
+      },
+      "availability": "Out of Stock",
+      "quantityAvailable": 171,
+      "tags": [
+        "minute",
+        "benefit",
+        "Gardening Tools"
+      ],
+      "shippingPolicy": "Ships within 7 business days across Maharashtra.",
+      "refundPolicy": "No refunds available for this product.",
+      "primaryImage": "https://m.media-amazon.com/images/I/51+ZzcAqSEL._SY300_SX300_.jpg",
+      "secondaryImages": [
+        "https://m.media-amazon.com/images/I/51+ZzcAqSEL._SY300_SX300_.jpg",
+        "https://m.media-amazon.com/images/I/51+ZzcAqSEL._SY300_SX300_.jpg",
+        "https://m.media-amazon.com/images/I/51xKeP+fbsL._SX569_.jpg",
+        "https://m.media-amazon.com/images/I/81WkGgAgZJL._SX569_.jpg"
+      ]
+    }
