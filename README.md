@@ -169,3 +169,18 @@ http://localhost:8080/plants/1/review
         "https://m.media-amazon.com/images/I/81WkGgAgZJL._SX569_.jpg"
       ]
     }
+    
+
+http://localhost:8080/equipment/save
+
+<img width="1353" height="690" alt="image" src="https://github.com/user-attachments/assets/576b580e-1125-4d36-a257-9bfc3f7bab19" />
+
+<img width="1357" height="701" alt="image" src="https://github.com/user-attachments/assets/87e09d9d-7f69-45dc-a73d-44bfa9accb9b" />
+
+GET
+http://localhost:8080/equipment/1
+
+<img width="1314" height="650" alt="image" src="https://github.com/user-attachments/assets/796362eb-ff53-412d-b3f5-42870064abd5" />
+
+PUT http://localhost:8080/equipment/1/review
+
