@@ -81,6 +81,35 @@ List<review>
     }
 
 
+    
+Add plant
+POST 
+http://localhost:8080/plants/save
+<img width="1321" height="703" alt="image" src="https://github.com/user-attachments/assets/a622e9b2-1105-4b61-8c1a-82db8c6590cc" />
+
+<img width="1361" height="684" alt="image" src="https://github.com/user-attachments/assets/6bdf1a68-e682-44f3-ba23-adcb40a6be49" />
+get all
+GET
+http://localhost:8080/plants/all
+<img width="1337" height="697" alt="image" src="https://github.com/user-attachments/assets/f6333d42-fa55-4554-b5da-d58bd20afe8b" />
+<img width="1338" height="648" alt="image" src="https://github.com/user-attachments/assets/9226e671-bf73-4449-a549-9093f6748576" />
+
+get review by id
+POST
+http://localhost:8080/plants/1/review
+{
+  "username": "MahiGreen",
+  "rating": 5,
+  "comment": "Beautiful healthy plant, great packaging!",
+  "productDelivered": true,
+  "dateTime": "2025-01-01T12:30:00",
+  "likes": 10,
+  "dislikes": 0
+}
+<img width="1349" height="707" alt="image" src="https://github.com/user-attachments/assets/7e6e39af-2c3e-4f45-bb21-d322a267f712" />
+
+<img width="1362" height="654" alt="image" src="https://github.com/user-attachments/assets/77252895-cac0-4daa-bc53-2e49ace78023" />
+
 
     Equipment
     {
